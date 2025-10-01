@@ -1,8 +1,5 @@
 <h1 align="center">🌸 Olá! Eu sou a Danielli 💖</h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/0JgG5wP.png" alt="Hello Kitty" width="150"/>
-</p>
 
 
 <p align="center">
