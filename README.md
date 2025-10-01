@@ -1,6 +1,10 @@
 <h1 align="center">🌸 Olá! Eu sou a Danielli 💖</h1>
 
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/09/Hello_kitty_character.svg" alt="Hello Kitty" width="150"/>
+</p>
+
+<p align="center">
 ✨ Desenvolvedora apaixonada por tecnologia, criatividade e tudo o que é feito com carinho. ✨<br>
 🌷 Sempre aprendendo e evoluindo. Vamos codar com estilo? 💻
 </p>
